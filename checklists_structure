@@ -1,0 +1,11 @@
+Checklist template
+id:
+Summary:
+Example:
+Result:
+Status:
+	- passed
+	- failed
+	- blocked
+	- skipped
+	- not run
